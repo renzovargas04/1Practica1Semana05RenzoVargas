@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Practica1Semana05RenzoVargas</string>
+    <string name="CaldeNot">Cálculo de Notas</string>
+    <string name="ExPar">Exámen Parcial</string>
+    <string name="ExFin">Exámen Final</string>
+    <string name="PEP">Promedio de evaluación permanente (PEP)</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="txtResult">Resultado</string>
+    <string name="txtNotFin">La nota final es</string>
+    <string name="txtRes">Resultado</string>
+    <string name="txtStatus">Aprobado</string>
+    <string name="CalculoFinal">Nota</string>
+
+</resources>
