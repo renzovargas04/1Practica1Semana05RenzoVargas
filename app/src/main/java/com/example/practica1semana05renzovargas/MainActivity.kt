@@ -23,6 +23,7 @@ class MainActivity : AppCompatActivity() {
         val btnCal: Button = findViewById(R.id.btnCalcular)
         var prom: Double=(NotParc*0.2+NotFin*0.2+NotPEP*0.6)
 
+
         //if(prom>=10.5){
         // println("APROBADO")
         //}else{
